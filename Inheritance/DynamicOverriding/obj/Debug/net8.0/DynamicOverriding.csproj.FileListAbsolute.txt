@@ -1,0 +1,4 @@
+C:\Demos\Inheritance\DynamicOverriding\obj\Debug\net8.0\DynamicOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\DynamicOverriding\obj\Debug\net8.0\DynamicOverriding.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\DynamicOverriding\obj\Debug\net8.0\DynamicOverriding.AssemblyInfo.cs
+C:\Demos\Inheritance\DynamicOverriding\obj\Debug\net8.0\DynamicOverriding.csproj.CoreCompileInputs.cache

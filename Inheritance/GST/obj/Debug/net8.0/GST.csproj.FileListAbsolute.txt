@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.AssemblyInfo.cs
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\GST\bin\Debug\net8.0\GST.exe
+C:\Demos\Inheritance\GST\bin\Debug\net8.0\GST.deps.json
+C:\Demos\Inheritance\GST\bin\Debug\net8.0\GST.runtimeconfig.json
+C:\Demos\Inheritance\GST\bin\Debug\net8.0\GST.dll
+C:\Demos\Inheritance\GST\bin\Debug\net8.0\GST.pdb
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.dll
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\refint\GST.dll
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.pdb
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\GST.genruntimeconfig.cache
+C:\Demos\Inheritance\GST\obj\Debug\net8.0\ref\GST.dll

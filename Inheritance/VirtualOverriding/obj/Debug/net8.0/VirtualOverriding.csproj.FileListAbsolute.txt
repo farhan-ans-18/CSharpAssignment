@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\VirtualOverriding\bin\Debug\net8.0\VirtualOverriding.exe
+C:\Demos\Inheritance\VirtualOverriding\bin\Debug\net8.0\VirtualOverriding.deps.json
+C:\Demos\Inheritance\VirtualOverriding\bin\Debug\net8.0\VirtualOverriding.runtimeconfig.json
+C:\Demos\Inheritance\VirtualOverriding\bin\Debug\net8.0\VirtualOverriding.dll
+C:\Demos\Inheritance\VirtualOverriding\bin\Debug\net8.0\VirtualOverriding.pdb
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.AssemblyInfo.cs
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.dll
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\refint\VirtualOverriding.dll
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.pdb
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\VirtualOverriding.genruntimeconfig.cache
+C:\Demos\Inheritance\VirtualOverriding\obj\Debug\net8.0\ref\VirtualOverriding.dll

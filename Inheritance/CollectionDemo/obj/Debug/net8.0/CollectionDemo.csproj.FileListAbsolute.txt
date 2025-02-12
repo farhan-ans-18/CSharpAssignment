@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\CollectionDemo\bin\Debug\net8.0\CollectionDemo.exe
+C:\Demos\Inheritance\CollectionDemo\bin\Debug\net8.0\CollectionDemo.deps.json
+C:\Demos\Inheritance\CollectionDemo\bin\Debug\net8.0\CollectionDemo.runtimeconfig.json
+C:\Demos\Inheritance\CollectionDemo\bin\Debug\net8.0\CollectionDemo.dll
+C:\Demos\Inheritance\CollectionDemo\bin\Debug\net8.0\CollectionDemo.pdb
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.AssemblyInfo.cs
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.dll
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\refint\CollectionDemo.dll
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.pdb
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\CollectionDemo.genruntimeconfig.cache
+C:\Demos\Inheritance\CollectionDemo\obj\Debug\net8.0\ref\CollectionDemo.dll

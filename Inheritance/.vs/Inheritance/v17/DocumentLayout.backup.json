@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Demos\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48D68C7-A3C6-4A32-9A6A-DEF49D541906}|GST\\GST.csproj|c:\\demos\\inheritance\\gst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48D68C7-A3C6-4A32-9A6A-DEF49D541906}|GST\\GST.csproj|solutionrelative:gst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844A9B61-A668-461F-9E6B-B9A589B7BACA}|Feedback\\Feedback.csproj|c:\\demos\\inheritance\\feedback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844A9B61-A668-461F-9E6B-B9A589B7BACA}|Feedback\\Feedback.csproj|solutionrelative:feedback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07EDD15-F2DF-4562-BF14-2982C6DFE5F4}|GenericCollection\\GenericCollection.csproj|c:\\demos\\inheritance\\genericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07EDD15-F2DF-4562-BF14-2982C6DFE5F4}|GenericCollection\\GenericCollection.csproj|solutionrelative:genericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6C4A-480D-4FB7-A0BD-CEEA17D2ECF6}|CollectionDemo\\CollectionDemo.csproj|c:\\demos\\inheritance\\collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6C4A-480D-4FB7-A0BD-CEEA17D2ECF6}|CollectionDemo\\CollectionDemo.csproj|solutionrelative:collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E10E40A-66ED-43FD-A16E-915A639F0418}|ArrayObject1\\ArrayObject1.csproj|c:\\demos\\inheritance\\arrayobject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E10E40A-66ED-43FD-A16E-915A639F0418}|ArrayObject1\\ArrayObject1.csproj|solutionrelative:arrayobject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BBC148-C6D5-4EE7-9C9A-590C2068EA73}|AccountDetails\\AccountDetails.csproj|c:\\demos\\inheritance\\accountdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BBC148-C6D5-4EE7-9C9A-590C2068EA73}|AccountDetails\\AccountDetails.csproj|solutionrelative:accountdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3A63B-F285-475D-942E-DD8F4E6247AC}|Discount\\Discount.csproj|c:\\demos\\inheritance\\discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A3A63B-F285-475D-942E-DD8F4E6247AC}|Discount\\Discount.csproj|solutionrelative:discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6BA576-766A-4222-A3F2-87F54612FD40}|DynamicOverriding\\DynamicOverriding.csproj|c:\\demos\\inheritance\\dynamicoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6BA576-766A-4222-A3F2-87F54612FD40}|DynamicOverriding\\DynamicOverriding.csproj|solutionrelative:dynamicoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DD6DC0-A46D-47C4-ACFE-E18B98154C4F}|OverLoading\\OverLoading.csproj|c:\\demos\\inheritance\\overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DD6DC0-A46D-47C4-ACFE-E18B98154C4F}|OverLoading\\OverLoading.csproj|solutionrelative:overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4362ED97-D656-4919-9074-8C7E8875F3D6}|VirtualOverriding\\VirtualOverriding.csproj|c:\\demos\\inheritance\\virtualoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4362ED97-D656-4919-9074-8C7E8875F3D6}|VirtualOverriding\\VirtualOverriding.csproj|solutionrelative:virtualoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467A6A0-0669-4AEE-975E-D026EE61C177}|Inheritance\\Inheritance.csproj|c:\\demos\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467A6A0-0669-4AEE-975E-D026EE61C177}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\Feedback\\Program.cs",
+              "RelativeDocumentMoniker": "Feedback\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\Feedback\\Program.cs",
+              "RelativeToolTip": "Feedback\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:36:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\GenericCollection\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollection\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\GenericCollection\\Program.cs",
+              "RelativeToolTip": "GenericCollection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:27:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\ArrayObject1\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayObject1\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\ArrayObject1\\Program.cs",
+              "RelativeToolTip": "ArrayObject1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:14:35.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\GST\\Program.cs",
+              "RelativeDocumentMoniker": "GST\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\GST\\Program.cs*",
+              "RelativeToolTip": "GST\\Program.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:12:03.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\CollectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionDemo\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\CollectionDemo\\Program.cs",
+              "RelativeToolTip": "CollectionDemo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:17:02.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\AccountDetails\\Program.cs",
+              "RelativeDocumentMoniker": "AccountDetails\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\AccountDetails\\Program.cs",
+              "RelativeToolTip": "AccountDetails\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:30:45.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\Discount\\Program.cs",
+              "RelativeDocumentMoniker": "Discount\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\Discount\\Program.cs",
+              "RelativeToolTip": "Discount\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:44:06.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\DynamicOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicOverriding\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\DynamicOverriding\\Program.cs",
+              "RelativeToolTip": "DynamicOverriding\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:45:32.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\VirtualOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualOverriding\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\VirtualOverriding\\Program.cs",
+              "RelativeToolTip": "VirtualOverriding\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:26:18.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\OverLoading\\Program.cs",
+              "RelativeDocumentMoniker": "OverLoading\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\OverLoading\\Program.cs",
+              "RelativeToolTip": "OverLoading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:20:50.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Demos\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Demos\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwFYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:21:53.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

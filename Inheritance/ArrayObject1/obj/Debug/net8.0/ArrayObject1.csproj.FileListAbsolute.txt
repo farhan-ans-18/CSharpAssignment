@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.AssemblyInfo.cs
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\ArrayObject1\bin\Debug\net8.0\ArrayObject1.exe
+C:\Demos\Inheritance\ArrayObject1\bin\Debug\net8.0\ArrayObject1.deps.json
+C:\Demos\Inheritance\ArrayObject1\bin\Debug\net8.0\ArrayObject1.runtimeconfig.json
+C:\Demos\Inheritance\ArrayObject1\bin\Debug\net8.0\ArrayObject1.dll
+C:\Demos\Inheritance\ArrayObject1\bin\Debug\net8.0\ArrayObject1.pdb
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.dll
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\refint\ArrayObject1.dll
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.pdb
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ArrayObject1.genruntimeconfig.cache
+C:\Demos\Inheritance\ArrayObject1\obj\Debug\net8.0\ref\ArrayObject1.dll
