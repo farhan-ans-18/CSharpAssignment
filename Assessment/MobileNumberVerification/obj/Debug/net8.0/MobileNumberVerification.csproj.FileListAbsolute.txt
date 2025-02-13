@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\MobileNumberVerification\bin\Debug\net8.0\MobileNumberVerification.exe
+C:\Demos\Inheritance\MobileNumberVerification\bin\Debug\net8.0\MobileNumberVerification.deps.json
+C:\Demos\Inheritance\MobileNumberVerification\bin\Debug\net8.0\MobileNumberVerification.runtimeconfig.json
+C:\Demos\Inheritance\MobileNumberVerification\bin\Debug\net8.0\MobileNumberVerification.dll
+C:\Demos\Inheritance\MobileNumberVerification\bin\Debug\net8.0\MobileNumberVerification.pdb
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.AssemblyInfo.cs
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.dll
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\refint\MobileNumberVerification.dll
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.pdb
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\MobileNumberVerification.genruntimeconfig.cache
+C:\Demos\Inheritance\MobileNumberVerification\obj\Debug\net8.0\ref\MobileNumberVerification.dll

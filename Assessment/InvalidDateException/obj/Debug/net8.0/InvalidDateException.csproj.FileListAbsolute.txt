@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.AssemblyInfo.cs
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\InvalidDateException\bin\Debug\net8.0\InvalidDateException.exe
+C:\Demos\Inheritance\InvalidDateException\bin\Debug\net8.0\InvalidDateException.deps.json
+C:\Demos\Inheritance\InvalidDateException\bin\Debug\net8.0\InvalidDateException.runtimeconfig.json
+C:\Demos\Inheritance\InvalidDateException\bin\Debug\net8.0\InvalidDateException.dll
+C:\Demos\Inheritance\InvalidDateException\bin\Debug\net8.0\InvalidDateException.pdb
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.dll
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\refint\InvalidDateException.dll
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.pdb
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\InvalidDateException.genruntimeconfig.cache
+C:\Demos\Inheritance\InvalidDateException\obj\Debug\net8.0\ref\InvalidDateException.dll

@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\SeatBookingAllocation\bin\Debug\net8.0\SeatBookingAllocation.exe
+C:\Demos\Inheritance\SeatBookingAllocation\bin\Debug\net8.0\SeatBookingAllocation.deps.json
+C:\Demos\Inheritance\SeatBookingAllocation\bin\Debug\net8.0\SeatBookingAllocation.runtimeconfig.json
+C:\Demos\Inheritance\SeatBookingAllocation\bin\Debug\net8.0\SeatBookingAllocation.dll
+C:\Demos\Inheritance\SeatBookingAllocation\bin\Debug\net8.0\SeatBookingAllocation.pdb
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.AssemblyInfo.cs
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.dll
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\refint\SeatBookingAllocation.dll
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.pdb
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\SeatBookingAllocation.genruntimeconfig.cache
+C:\Demos\Inheritance\SeatBookingAllocation\obj\Debug\net8.0\ref\SeatBookingAllocation.dll

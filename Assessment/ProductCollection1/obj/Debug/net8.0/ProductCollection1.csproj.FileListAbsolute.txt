@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\ProductCollection1\bin\Debug\net8.0\ProductCollection1.exe
+C:\Demos\Inheritance\ProductCollection1\bin\Debug\net8.0\ProductCollection1.deps.json
+C:\Demos\Inheritance\ProductCollection1\bin\Debug\net8.0\ProductCollection1.runtimeconfig.json
+C:\Demos\Inheritance\ProductCollection1\bin\Debug\net8.0\ProductCollection1.dll
+C:\Demos\Inheritance\ProductCollection1\bin\Debug\net8.0\ProductCollection1.pdb
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.AssemblyInfo.cs
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.dll
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\refint\ProductCollection1.dll
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.pdb
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ProductCollection1.genruntimeconfig.cache
+C:\Demos\Inheritance\ProductCollection1\obj\Debug\net8.0\ref\ProductCollection1.dll
