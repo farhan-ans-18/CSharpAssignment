@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\Feedback\bin\Debug\net8.0\Feedback.exe
+C:\Demos\Inheritance\Feedback\bin\Debug\net8.0\Feedback.deps.json
+C:\Demos\Inheritance\Feedback\bin\Debug\net8.0\Feedback.runtimeconfig.json
+C:\Demos\Inheritance\Feedback\bin\Debug\net8.0\Feedback.dll
+C:\Demos\Inheritance\Feedback\bin\Debug\net8.0\Feedback.pdb
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.AssemblyInfo.cs
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.dll
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\refint\Feedback.dll
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.pdb
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\Feedback.genruntimeconfig.cache
+C:\Demos\Inheritance\Feedback\obj\Debug\net8.0\ref\Feedback.dll

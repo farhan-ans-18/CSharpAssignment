@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.AssemblyInfo.cs
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\Discount\bin\Debug\net8.0\Discount.exe
+C:\Demos\Inheritance\Discount\bin\Debug\net8.0\Discount.deps.json
+C:\Demos\Inheritance\Discount\bin\Debug\net8.0\Discount.runtimeconfig.json
+C:\Demos\Inheritance\Discount\bin\Debug\net8.0\Discount.dll
+C:\Demos\Inheritance\Discount\bin\Debug\net8.0\Discount.pdb
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.dll
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\refint\Discount.dll
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.pdb
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\Discount.genruntimeconfig.cache
+C:\Demos\Inheritance\Discount\obj\Debug\net8.0\ref\Discount.dll
