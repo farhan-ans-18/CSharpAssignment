@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\ProductFile\bin\Debug\net8.0\ProductFile.exe
+C:\Demos\Inheritance\ProductFile\bin\Debug\net8.0\ProductFile.deps.json
+C:\Demos\Inheritance\ProductFile\bin\Debug\net8.0\ProductFile.runtimeconfig.json
+C:\Demos\Inheritance\ProductFile\bin\Debug\net8.0\ProductFile.dll
+C:\Demos\Inheritance\ProductFile\bin\Debug\net8.0\ProductFile.pdb
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.AssemblyInfo.cs
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.dll
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\refint\ProductFile.dll
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.pdb
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ProductFile.genruntimeconfig.cache
+C:\Demos\Inheritance\ProductFile\obj\Debug\net8.0\ref\ProductFile.dll
