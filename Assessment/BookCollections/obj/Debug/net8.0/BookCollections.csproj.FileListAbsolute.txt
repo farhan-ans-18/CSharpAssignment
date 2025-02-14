@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\BookCollections\bin\Debug\net8.0\BookCollections.exe
+C:\Demos\Inheritance\BookCollections\bin\Debug\net8.0\BookCollections.deps.json
+C:\Demos\Inheritance\BookCollections\bin\Debug\net8.0\BookCollections.runtimeconfig.json
+C:\Demos\Inheritance\BookCollections\bin\Debug\net8.0\BookCollections.dll
+C:\Demos\Inheritance\BookCollections\bin\Debug\net8.0\BookCollections.pdb
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.AssemblyInfo.cs
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.dll
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\refint\BookCollections.dll
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.pdb
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\BookCollections.genruntimeconfig.cache
+C:\Demos\Inheritance\BookCollections\obj\Debug\net8.0\ref\BookCollections.dll
