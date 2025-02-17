@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\MarraigeHall\bin\Debug\net8.0\MarraigeHall.exe
+C:\Demos\Inheritance\MarraigeHall\bin\Debug\net8.0\MarraigeHall.deps.json
+C:\Demos\Inheritance\MarraigeHall\bin\Debug\net8.0\MarraigeHall.runtimeconfig.json
+C:\Demos\Inheritance\MarraigeHall\bin\Debug\net8.0\MarraigeHall.dll
+C:\Demos\Inheritance\MarraigeHall\bin\Debug\net8.0\MarraigeHall.pdb
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.AssemblyInfo.cs
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.dll
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\refint\MarraigeHall.dll
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.pdb
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\MarraigeHall.genruntimeconfig.cache
+C:\Demos\Inheritance\MarraigeHall\obj\Debug\net8.0\ref\MarraigeHall.dll

@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\EventDetails\bin\Debug\net8.0\EventDetails.exe
+C:\Demos\Inheritance\EventDetails\bin\Debug\net8.0\EventDetails.deps.json
+C:\Demos\Inheritance\EventDetails\bin\Debug\net8.0\EventDetails.runtimeconfig.json
+C:\Demos\Inheritance\EventDetails\bin\Debug\net8.0\EventDetails.dll
+C:\Demos\Inheritance\EventDetails\bin\Debug\net8.0\EventDetails.pdb
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.AssemblyInfo.cs
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.dll
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\refint\EventDetails.dll
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.pdb
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\EventDetails.genruntimeconfig.cache
+C:\Demos\Inheritance\EventDetails\obj\Debug\net8.0\ref\EventDetails.dll

@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\SuitableCourse\bin\Debug\net8.0\SuitableCourse.exe
+C:\Demos\Inheritance\SuitableCourse\bin\Debug\net8.0\SuitableCourse.deps.json
+C:\Demos\Inheritance\SuitableCourse\bin\Debug\net8.0\SuitableCourse.runtimeconfig.json
+C:\Demos\Inheritance\SuitableCourse\bin\Debug\net8.0\SuitableCourse.dll
+C:\Demos\Inheritance\SuitableCourse\bin\Debug\net8.0\SuitableCourse.pdb
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.AssemblyInfo.cs
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.dll
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\refint\SuitableCourse.dll
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.pdb
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\SuitableCourse.genruntimeconfig.cache
+C:\Demos\Inheritance\SuitableCourse\obj\Debug\net8.0\ref\SuitableCourse.dll

@@ -1,0 +1,14 @@
+C:\Demos\Inheritance\StudentPlaced\bin\Debug\net8.0\StudentPlaced.exe
+C:\Demos\Inheritance\StudentPlaced\bin\Debug\net8.0\StudentPlaced.deps.json
+C:\Demos\Inheritance\StudentPlaced\bin\Debug\net8.0\StudentPlaced.runtimeconfig.json
+C:\Demos\Inheritance\StudentPlaced\bin\Debug\net8.0\StudentPlaced.dll
+C:\Demos\Inheritance\StudentPlaced\bin\Debug\net8.0\StudentPlaced.pdb
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.AssemblyInfoInputs.cache
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.AssemblyInfo.cs
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.csproj.CoreCompileInputs.cache
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.dll
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\refint\StudentPlaced.dll
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.pdb
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\StudentPlaced.genruntimeconfig.cache
+C:\Demos\Inheritance\StudentPlaced\obj\Debug\net8.0\ref\StudentPlaced.dll
