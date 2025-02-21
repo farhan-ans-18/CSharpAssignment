@@ -1,0 +1,48 @@
+﻿@model RateCalculation.Models.RentCalculation
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="color:darkblue">Rent Calculation</h1>
+
+
+
+<form asp-action="Calculation">
+    <table>
+        <tr>
+            <th>Name: </th>
+            <td>
+                <input asp-for="Name" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>Hall Owner: </th>
+            <td>
+                <input asp-for="HallOwner" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>Cost Per Day: </th>
+            <td>
+                <input asp-for="CostPerDay" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>StartDate </th>
+            <td>
+                <input asp-for="StartDate" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <th>EndDate </th>
+            <td>
+                <input asp-for="EndDate" class="form-control" />
+            </td>
+        </tr>
+
+    </table>
+    <input type="submit" value="Calculate" style="color:darkblue" />
+</form>
+
+
+

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EFCoreConsole\\RateCalculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|c:\\efcoreconsole\\ratecalculation\\ratecalculation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|solutionrelative:ratecalculation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|c:\\efcoreconsole\\ratecalculation\\ratecalculation\\views\\home\\calculation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|solutionrelative:ratecalculation\\views\\home\\calculation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|c:\\efcoreconsole\\ratecalculation\\ratecalculation\\models\\rentcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|solutionrelative:ratecalculation\\models\\rentcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|c:\\efcoreconsole\\ratecalculation\\ratecalculation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|solutionrelative:ratecalculation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|c:\\efcoreconsole\\ratecalculation\\ratecalculation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|solutionrelative:ratecalculation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|c:\\efcoreconsole\\ratecalculation\\ratecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D788B9A-0A2E-41EE-8F4E-73E7FA7350E5}|RateCalculation\\RateCalculation.csproj|solutionrelative:ratecalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RateCalculation\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RateCalculation\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:37:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cshtml",
+              "DocumentMoniker": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Views\\Home\\Calculation.cshtml",
+              "RelativeDocumentMoniker": "RateCalculation\\Views\\Home\\Calculation.cshtml",
+              "ToolTip": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Views\\Home\\Calculation.cshtml",
+              "RelativeToolTip": "RateCalculation\\Views\\Home\\Calculation.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T09:22:05.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RateCalculation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RateCalculation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T09:04:07.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentCalculation.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Models\\RentCalculation.cs",
+              "RelativeDocumentMoniker": "RateCalculation\\Models\\RentCalculation.cs",
+              "ToolTip": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Models\\RentCalculation.cs",
+              "RelativeToolTip": "RateCalculation\\Models\\RentCalculation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:52:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RateCalculation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RateCalculation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:50:41.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "RateCalculation\\Program.cs",
+              "ToolTip": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\Program.cs",
+              "RelativeToolTip": "RateCalculation\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:49:59.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
