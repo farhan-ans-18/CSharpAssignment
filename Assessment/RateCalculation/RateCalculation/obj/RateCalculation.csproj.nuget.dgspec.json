@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\RateCalculation.csproj": {}
+    "C:\\Users\\farhan.ansari\\CSharpAssignment\\Assessment\\RateCalculation\\RateCalculation\\RateCalculation.csproj": {}
   },
   "projects": {
-    "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\RateCalculation.csproj": {
+    "C:\\Users\\farhan.ansari\\CSharpAssignment\\Assessment\\RateCalculation\\RateCalculation\\RateCalculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\RateCalculation.csproj",
+        "projectUniqueName": "C:\\Users\\farhan.ansari\\CSharpAssignment\\Assessment\\RateCalculation\\RateCalculation\\RateCalculation.csproj",
         "projectName": "RateCalculation",
-        "projectPath": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\RateCalculation.csproj",
+        "projectPath": "C:\\Users\\farhan.ansari\\CSharpAssignment\\Assessment\\RateCalculation\\RateCalculation\\RateCalculation.csproj",
         "packagesPath": "C:\\Users\\farhan.ansari\\.nuget\\packages\\",
-        "outputPath": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\obj\\",
+        "outputPath": "C:\\Users\\farhan.ansari\\CSharpAssignment\\Assessment\\RateCalculation\\RateCalculation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

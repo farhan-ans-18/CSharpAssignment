@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RateCalculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f751096a5a266284856f7c7fe878b305ee52b56")]
 [assembly: System.Reflection.AssemblyProductAttribute("RateCalculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RateCalculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

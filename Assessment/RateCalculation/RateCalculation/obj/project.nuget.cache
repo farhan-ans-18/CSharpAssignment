@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8V9SAWM2hog=",
+  "dgSpecHash": "XJqoyonpbSM=",
   "success": true,
-  "projectFilePath": "C:\\EFCoreConsole\\RateCalculation\\RateCalculation\\RateCalculation.csproj",
+  "projectFilePath": "C:\\Users\\farhan.ansari\\CSharpAssignment\\Assessment\\RateCalculation\\RateCalculation\\RateCalculation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\farhan.ansari\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\farhan.ansari\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

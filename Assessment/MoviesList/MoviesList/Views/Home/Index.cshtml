@@ -1,0 +1,11 @@
+﻿@model MoviesList.Models.MovieVM
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@Html.Partial("_MovieView",Model.Movie)
+@Html.Partial("_MovieList", Model.Movies)
+
+

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EFCoreConsole\\HallBudgetASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\models\\halldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\models\\halldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\models\\ihalldataaccessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\models\\ihalldataaccessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\models\\halldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\models\\halldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\models\\halldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\models\\halldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|c:\\efcoreconsole\\hallbudgetaspcore\\hallbudgetaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00AC213B-D597-4FAF-8497-5899FD3B8998}|HallBudgetASPCore\\HallBudgetASPCore.csproj|solutionrelative:hallbudgetaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:09:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "HallBudgetASPCore\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T06:32:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HallDbContext.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\HallDbContext.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Models\\HallDbContext.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\HallDbContext.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Models\\HallDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:54:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HallDataAccess.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\HallDataAccess.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Models\\HallDataAccess.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\HallDataAccess.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Models\\HallDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:57:33.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHallDataAccessModel.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\IHallDataAccessModel.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Models\\IHallDataAccessModel.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\IHallDataAccessModel.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Models\\IHallDataAccessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:40:21.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Program.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Program.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:35:59.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HallDetails.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\HallDetails.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Models\\HallDetails.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\HallDetails.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Models\\HallDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:10:12.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HallBudgetASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T06:14:55.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "HallBudgetASPCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:11:34.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\appsettings.json",
+              "RelativeDocumentMoniker": "HallBudgetASPCore\\appsettings.json",
+              "ToolTip": "C:\\EFCoreConsole\\HallBudgetASPCore\\HallBudgetASPCore\\appsettings.json",
+              "RelativeToolTip": "HallBudgetASPCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T10:38:49.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿@model List<HallBudgetASPCore.Models.HallDetails>
+
+@{
+    ViewData["Title"] = "Search";
+    
+}
+
+@if(ViewBag.Message?.ToString() != null){ 
+     <p style="color:red; font-size:45px;">@ViewBag.Message</p> 
+ } 
+
+ else{
+    <h1>Hall details</h1>
+    <table border="2" style="text-align:center;">
+        <thead>
+            <tr>
+                <th style="border: 1px solid black; padding: 8px;">Hall Name</th>
+            <th style="border: 1px solid black;padding: 8px;">Owner</th>
+            <th style="border: 1px solid black; padding: 8px;">Cost Per Day</th>
+            <th style="border: 1px solid black; padding: 8px;">Mobile</th>
+            <th style="border: 1px solid black; padding: 8px;">Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var hall in Model){
+                <tr>
+                <td style="border: 1px solid black; padding: 8px;">@hall.HallName</td>
+                <td style="border: 1px solid black; padding: 8px;">@hall.OwnerName</td>
+                <td style="border: 1px solid black; padding: 8px;">@hall.CostPerDay</td>
+                <td style="border: 1px solid black; padding: 8px;">@hall.Mobile</td>
+                <td style="border: 1px solid black; padding: 8px;">@hall.Address</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
